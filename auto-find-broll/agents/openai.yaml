@@ -1,0 +1,4 @@
+interface:
+  display_name: "自动找B-roll"
+  short_description: "口播/SRT 的高质感 B-roll 筛选、审核与确认后下载"
+  default_prompt: "使用 $auto-find-broll 分析这份口播文案或 SRT：先广泛找出需要具象化的句子，提供表层首选与深层备选；我确认后再下载并整理素材。"
